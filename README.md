@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end QSAR workflow for predicting Caco-2 permeability (logPapp) of small molecules using molecular fingerprints, physicochemical descriptors, and machine learning.
 ### Live Demo
-[Streamlit App]([YOUR_STREAMLIT_LINK](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fpermeability-prediction-app-upwot5ruaafrrxx5iotxux%2Estreamlit%2Eapp%2F&urlhash=ksXi&mt=O1FgSkF7Y3xxn5KzRxK_0sE2ZDx8Plkzc3Vf7eXyuRVX_3ePz1_LNI2ulnn0P3aegEYmkijLtmOU9nNEGNJojdfvSD7yu9zBE84TP7h3DktnmmykIJ_79A&isSdui=true))
+[Streamlit App](https://permeability-prediction-app-upwot5ruaafrrxx5iotxux.streamlit.app/)
 
 The workflow covers data curation, exploratory analysis, molecular representation, model development, validation, applicability domain analysis, explainable AI, and deployment.
 
